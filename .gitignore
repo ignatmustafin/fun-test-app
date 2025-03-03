@@ -8,3 +8,5 @@ npm-debug.log
 .vscode-test
 .vscode
 .idea
+build
+docker_data

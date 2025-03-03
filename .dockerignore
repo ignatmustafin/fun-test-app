@@ -1,0 +1,7 @@
+node_modules
+uploads
+public/images
+build
+log/*
+.idea
+docker_data
